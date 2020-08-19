@@ -1,0 +1,12 @@
+# terraform-aws-budget
+
+[![Lint Status](https://github.com/DNXLabs/terraform-aws-budget/workflows/Lint/badge.svg)](https://github.com/DNXLabs/terraform-aws-budget/actions)
+[![LICENSE](https://img.shields.io/github/license/DNXLabs/terraform-aws-budget)](https://github.com/DNXLabs/terraform-aws-budget/blob/master/LICENSE)
+
+Terraform module to add billing related aws resources
+
+- AWS Budget
+- SNS Budget Alarm
+- AWS Chatbot intergation to send notifications to Slack channel
+
+![AWS Billing HLD](images/hld_billing.png)
