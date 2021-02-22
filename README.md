@@ -14,6 +14,7 @@ Terraform module to add billing related AWS resources:
 <!--- BEGIN_TF_DOCS --->
 
 <!--- END_TF_DOCS --->
+
 ## Authors
 
 Module managed by [DNX Solutions](https://github.com/DNXLabs).
